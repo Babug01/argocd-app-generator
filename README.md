@@ -1,6 +1,6 @@
 # ArgoCD Application Generator
 
-**Live demo:** https://babug01.github.io/argocd-app-generator/
+**Live demo:** https://argocd-app-generator.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/argocd-app-generator/)
 
 A form-driven generator for the `argoproj.io/v1alpha1` Application manifest. Fill in the source,
 destination, and sync policy you want and get back the exact YAML shape immediately — built for
